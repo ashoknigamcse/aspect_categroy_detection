@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentences>
+    <sentence id="3440">
+        <text>Even though its good seafood, the prices are too high.</text>
+        <aspectTerms>
+            <aspectTerm term="seafood" polarity="positive" from="21" to="28"/>
+            <aspectTerm term="prices" polarity="negative" from="34" to="40"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+            <aspectCategory category="price" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="870">
+        <text>In addition, the food is very good and the prices are reasonable.</text>
+        <aspectTerms>
+            <aspectTerm term="food" polarity="positive" from="17" to="21"/>
+            <aspectTerm term="prices" polarity="positive" from="43" to="49"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+            <aspectCategory category="price" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="3575">
+        <text>As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry.</text>
+        <aspectTerms>
+            <aspectTerm term="waiter" polarity="neutral" from="68" to="74"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1105">
+        <text>I have been coming to this neighborhood spot for years.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+</sentences>
